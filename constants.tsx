@@ -80,12 +80,12 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
     skills: ["PyTorch", "Scikit-learn", "LangChain", "Hugging Face", "CNN", "Vision Transformers", "RAG"]
   },
   {
-    title: "NLP & Conversational",
-    skills: ["NLTK", "Gensim", "Hugging Face Transformers", "Conversational AI", "Vector Databases"]
+    title: "AI Backend Orchestration",
+    skills: ["FastAPI", "NodeJs", "Expressjs", "MongoDB", "PostgreSQL", "Vector Databases"]
   },
   {
-    title: "Languages & Tools",
-    skills: ["Python", "PostgreSQL", "MySQL", "Git", "VS Code", "Jupyter", "Replit", "Cursor"]
+    title: "Tools",
+    skills: ["Git", "VS Code", "Jupyter", "Replit", "Cursor"]
   },
   {
     title: "Data Analysis",
@@ -97,7 +97,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   {
     title: "1st Place - Valeria Agberagba AI Innovation Challenge",
     description: "Co-winner for 'GoSmart Technologies site capturing', an Agentic system for agricultural robots that optimizes planting strategies using land analysis.",
-    link: "https://github.com/NECX12"
+    link: "https://github.com/chuxdx-dev/AgroBot-Intelligence"
   }
 ];
 
